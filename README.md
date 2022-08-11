@@ -15,3 +15,8 @@ calculate factorial
 Parameter n : input number,   
 Return : n factorial, n!
 ```
+
+## pip install
+```
+pip install git+https://github.com/rexfelix/test_numbers@master
+```
